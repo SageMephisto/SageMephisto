@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Akwasi 👋
 
-<!--
-**SageMephisto/SageMephisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's in Data Analytics | Healthcare & Business Intelligence
 
-Here are some ideas to get you started:
+I build end-to-end data projects — from raw data to interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools
+Python · SQL · Streamlit · Power BI · Tableau · pandas · Plotly
+
+## 📁 Projects
+- [Medicare Analytics Dashboard](link-to-repo) — Interactive Streamlit dashboard analyzing 116k CMS Medicare beneficiaries
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/abya427/) · boaadutwum427@gmail.com
